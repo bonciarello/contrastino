@@ -1,0 +1,19 @@
+{
+  "name": "editor-visuale-di-palette-colori-a-contrasto-leggibile-216bf411",
+  "version": "1.0.0",
+  "description": "Contrastino — Editor visuale di palette colori a contrasto leggibile WCAG",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node tests/contrast.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.7",
+    "vite": "^8.1.3"
+  }
+}
