@@ -251,6 +251,7 @@ body {
   border: 1px solid #E2DFD5;
   border-radius: 10px;
   padding: 18px;
+  min-width: 0;
 }
 
 .panel__heading {
