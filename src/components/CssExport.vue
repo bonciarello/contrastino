@@ -50,7 +50,7 @@ const copied = ref(false)
 const cssCode = computed(() => {
   const lines = [
     '/* Palette generata con Contrastino */',
-    '/* https://cristianporco.it/app/contrastino/ */',
+    '/* https://github.com/bonciarello/contrastino/ */',
     '',
     ':root {',
     `  --color-background: ${props.bg};`,
